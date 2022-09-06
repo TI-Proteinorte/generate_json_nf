@@ -1,14 +1,14 @@
 package br.com.proteinorte.controller;
 
-import br.com.proteinorte.helper.HelperSankhyaDB;
+import br.com.proteinorte.utils.helper.HelperSankhyaDB;
 import java.util.List;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.nio.charset.StandardCharsets;
-import br.com.proteinorte.utils.Constants;
+import br.com.proteinorte.constants.Constants;
 import br.com.proteinorte.model.InvoiceHeader;
 import br.com.proteinorte.model.InvoiceProduct;
-import br.com.proteinorte.helper.HelperJSONStructure;
+import br.com.proteinorte.utils.helper.HelperJSONStructure;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import java.text.Normalizer;
 

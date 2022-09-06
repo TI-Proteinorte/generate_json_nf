@@ -1,6 +1,6 @@
 package br.com.proteinorte.core;
 
-import br.com.proteinorte.utils.Constants;
+import br.com.proteinorte.constants.Constants;
 import br.com.proteinorte.controller.Invoice;
 import br.com.sankhya.extensions.actionbutton.Registro;
 import br.com.sankhya.extensions.actionbutton.ContextoAcao;

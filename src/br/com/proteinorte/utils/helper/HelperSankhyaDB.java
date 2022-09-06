@@ -1,4 +1,4 @@
-package br.com.proteinorte.helper;
+package br.com.proteinorte.utils.helper;
 
 import br.com.sankhya.jape.EntityFacade;
 import br.com.sankhya.jape.dao.JdbcWrapper;

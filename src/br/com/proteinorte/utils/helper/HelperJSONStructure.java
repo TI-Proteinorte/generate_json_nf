@@ -1,4 +1,4 @@
-package br.com.proteinorte.helper;
+package br.com.proteinorte.utils.helper;
 
 import java.util.List;
 import java.io.IOException;

@@ -1,13 +1,17 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Project for integration with the NCL logistics HUB for deliveries to the Greater Vitória region.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+    - `core`: the folder to maintain main
+    - `model`: the folder to maintain main
+    - `utils`: the folder to maintain main
+    - `helper`: the folder to maintain main
+    - `controller`: the folder to maintain main
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 

@@ -1,4 +1,4 @@
-package br.com.proteinorte.utils;
+package br.com.proteinorte.constants;
 
 public final class Constants {
 
