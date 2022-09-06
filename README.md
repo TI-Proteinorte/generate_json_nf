@@ -7,16 +7,24 @@ Project for integration with the NCL logistics HUB for deliveries to the Greater
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-    - `core`: the folder to maintain main
-    - `model`: the folder to maintain main
-    - `utils`: the folder to maintain main
-    - `helper`: the folder to maintain main
-    - `controller`: the folder to maintain main
+    - `core`: This folder to maintain main
+    - `model`: This folder contains the data models
+    - `utils`: This folder contains the helpers which are used throughout the application
+    - `constants`: This folder contains the constants which are static throughout the applications
+    - `controller`: This folder contains management the application
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Meanwhile, the compiled output files will be generated in the `dist` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> This project was developed in the `Netbeans IDE` for `JAVA 8`, with integration to `Sankhya` through the `JAVA Module > Action Button`.
 
-## Dependency Management
+## Libraries
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The libraries used in this project are located in the `library` folder.
+
+- jackson-annotations.jar
+- jackson-core.jar
+- jackson-databind.jar
+- SankhyaW-extensions.jar
+- commons-codec.jar
+- jape.jar
+- mge-modelcore.jar
