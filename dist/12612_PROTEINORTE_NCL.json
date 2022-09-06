@@ -1,0 +1,2228 @@
+[
+    {
+        "nNF": 1196329,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "33285286000158",
+        "RuaDest": "RUA RODOLFO MAGESWISKI",
+        "numDest": "300",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 10724,
+                "EAN": "02071400",
+                "Nome": "File de Peito Temp. Cong-PCT-Kifrango-Cx 20Kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.4
+            }
+        ]
+    },
+    {
+        "nNF": 1196337,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "33189848000160",
+        "RuaDest": "RUA DESEMBARGADOR FARIAS SANTOS",
+        "numDest": "155",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 167,
+                "EAN": "02071400",
+                "Nome": "File de Coxas e Sobrecoxas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.56004
+            }
+        ]
+    },
+    {
+        "nNF": 1196372,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "07221314000163",
+        "RuaDest": "RUA DESEMBARGADOR FARIAS SANTOS",
+        "numDest": "111",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196355,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "21958727000156",
+        "RuaDest": "ROD OCTAVIO AYRES DE FARIAS, S/N",
+        "numDest": "0",
+        "BairroDest": "ZONA RURAL",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 211,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-IND-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196373,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "39284732000196",
+        "RuaDest": "RUA Principal",
+        "numDest": "0",
+        "BairroDest": "VILA NELITA",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.53
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            },
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 84.0,
+                "Volume": 4.0,
+                "PesoBruto": 85.974
+            },
+            {
+                "codigo": 10583,
+                "EAN": "02071400",
+                "Nome": "Dorso Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            }
+        ]
+    },
+    {
+        "nNF": 1196322,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "10812669000131",
+        "RuaDest": "RUA Principal",
+        "numDest": "0",
+        "BairroDest": "GOV LACERDA AGUIAR",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.53
+            },
+            {
+                "codigo": 169,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 224,
+                "EAN": "16010000",
+                "Nome": "Salsichas Hot Dog Resf-PCT 3kg-Xiken-Cx 18kg",
+                "Unidade": "KG",
+                "PesoLiquido": 18.0,
+                "Volume": 1.0,
+                "PesoBruto": 18.0
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 100.0,
+                "Volume": 5.0,
+                "PesoBruto": 102.35
+            }
+        ]
+    },
+    {
+        "nNF": 1196366,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "03588473000140",
+        "RuaDest": "RUA AURORA",
+        "numDest": "205",
+        "BairroDest": "ONDINA",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 48.0,
+                "Volume": 4.0,
+                "PesoBruto": 50.04
+            },
+            {
+                "codigo": 223,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 5kg-Kifr-CX20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.96
+            },
+            {
+                "codigo": 8930,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Porcao Dorsal Cong-IND-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 240.0,
+                "Volume": 12.0,
+                "PesoBruto": 246.12
+            },
+            {
+                "codigo": 11271,
+                "EAN": "02071400",
+                "Nome": "Filezinho (Sassami) Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196338,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "39375228000100",
+        "RuaDest": "RUA AURORA",
+        "numDest": "19",
+        "BairroDest": "Centro",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 217,
+                "EAN": "02071400",
+                "Nome": "Asas Temp Ervas Finas Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.4
+            }
+        ]
+    },
+    {
+        "nNF": 1196370,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "16744796000127",
+        "RuaDest": "RUA SAO MATEUS",
+        "numDest": "13",
+        "BairroDest": "VILA PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29800000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196352,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "37627617000141",
+        "RuaDest": "RUA PROJETADA",
+        "numDest": "0",
+        "BairroDest": "VILA PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29800000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196325,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "13021259000160",
+        "RuaDest": "RUA RODOLFO MAGEWISKI",
+        "numDest": "326",
+        "BairroDest": "NOVA MONIQUE",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 998955322,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196347,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "23074588000123",
+        "RuaDest": "RUA RODOLFO MAGEWISKI",
+        "numDest": "300",
+        "BairroDest": "Centro",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196374,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "08346136000160",
+        "RuaDest": "ROD BARRA SAO FRANCISCO- ECOPORANGA",
+        "numDest": "0",
+        "BairroDest": "ZONA RURAL",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29800000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196368,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "09491729000182",
+        "RuaDest": "RUA JOAO EVANGELISTA DOS REIS",
+        "numDest": "0",
+        "BairroDest": "PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29800000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 63.0,
+                "Volume": 3.0,
+                "PesoBruto": 64.4805
+            },
+            {
+                "codigo": 1539,
+                "EAN": "02071400",
+                "Nome": "Espetinho File Peito Temp Ervas Finas Cong-IND-Xiken-Cx 3kg",
+                "Unidade": "KG",
+                "PesoLiquido": 3.0,
+                "Volume": 1.0,
+                "PesoBruto": 3.21
+            }
+        ]
+    },
+    {
+        "nNF": 1196351,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "09114832000103",
+        "RuaDest": "RUA TREVO MARIA GUIDE",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 163,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 105.0,
+                "Volume": 5.0,
+                "PesoBruto": 107.4675
+            }
+        ]
+    },
+    {
+        "nNF": 1196328,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "09558309000176",
+        "RuaDest": "TV MARIA GUIDE",
+        "numDest": "0",
+        "BairroDest": "CENTRO (SANTO AGOSTI",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 162,
+                "EAN": "02071400",
+                "Nome": "Pes Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.51008
+            },
+            {
+                "codigo": 163,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 2.0,
+                "PesoBruto": 21.02
+            },
+            {
+                "codigo": 183,
+                "EAN": "02071400",
+                "Nome": "Sambiquira Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.46
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 100.0,
+                "Volume": 5.0,
+                "PesoBruto": 102.35
+            },
+            {
+                "codigo": 10607,
+                "EAN": "02071400",
+                "Nome": "Moela Cong-PCT 800gr-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            }
+        ]
+    },
+    {
+        "nNF": 1196323,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "05770171000113",
+        "RuaDest": "RUA MARIO DE OLIVEIRA DIAS",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            },
+            {
+                "codigo": 10583,
+                "EAN": "02071400",
+                "Nome": "Dorso Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            }
+        ]
+    },
+    {
+        "nNF": 1196350,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "23383650000169",
+        "RuaDest": "RUA MARIO DE OLIVEIRA DIAS",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29824000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 42.0,
+                "Volume": 2.0,
+                "PesoBruto": 42.987
+            }
+        ]
+    },
+    {
+        "nNF": 1196334,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "26629379000197",
+        "RuaDest": "RUA MARIO DE OLIVEIRA DIAS",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 183,
+                "EAN": "02071400",
+                "Nome": "Sambiquira Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.46
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 40.94
+            }
+        ]
+    },
+    {
+        "nNF": 1196335,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "25070526000179",
+        "RuaDest": "RUA MARIO DE OLIVEIRA DIAS",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196363,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "03563468000182",
+        "RuaDest": "RUA A",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.41
+            },
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.53
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 162,
+                "EAN": "02071400",
+                "Nome": "Pes Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.51008
+            },
+            {
+                "codigo": 180,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-ITF-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 214,
+                "EAN": "02071400",
+                "Nome": "Coxinhas da Asa Temp Ervas F Cong-PCT-1kg-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            }
+        ]
+    },
+    {
+        "nNF": 1196365,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "27247832000163",
+        "RuaDest": "RUA DESEMBARGADOR SANTOS NEVES",
+        "numDest": "194",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 213,
+                "EAN": "02071400",
+                "Nome": "Meio das Asas Temp Ervas F Cong-PCT-1kg-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 214,
+                "EAN": "02071400",
+                "Nome": "Coxinhas da Asa Temp Ervas F Cong-PCT-1kg-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196344,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "36300325000137",
+        "RuaDest": "AV CARLOS LINDEMBERG",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 162,
+                "EAN": "02071400",
+                "Nome": "Pes Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.51008
+            },
+            {
+                "codigo": 169,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 530,
+                "EAN": "02071400",
+                "Nome": "Sobrecoxas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 300.0,
+                "Volume": 15.0,
+                "PesoBruto": 307.05
+            },
+            {
+                "codigo": 10583,
+                "EAN": "02071400",
+                "Nome": "Dorso Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            }
+        ]
+    },
+    {
+        "nNF": 1196358,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "28510543000178",
+        "RuaDest": "RUA DOMINGOS MARCOLINO",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 100.0,
+                "Volume": 5.0,
+                "PesoBruto": 102.55
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 80.0,
+                "Volume": 4.0,
+                "PesoBruto": 82.04
+            },
+            {
+                "codigo": 162,
+                "EAN": "02071400",
+                "Nome": "Pes Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.51008
+            }
+        ]
+    },
+    {
+        "nNF": 1196362,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "39620075000100",
+        "RuaDest": "RUA IRACY MARQUES",
+        "numDest": "840",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 100.0,
+                "Volume": 5.0,
+                "PesoBruto": 102.55
+            },
+            {
+                "codigo": 166,
+                "EAN": "02071400",
+                "Nome": "Coxas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            },
+            {
+                "codigo": 171,
+                "EAN": "02071400",
+                "Nome": "Meio das Asas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            },
+            {
+                "codigo": 175,
+                "EAN": "02071400",
+                "Nome": "Moela Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 183,
+                "EAN": "02071400",
+                "Nome": "Sambiquira Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.46
+            },
+            {
+                "codigo": 530,
+                "EAN": "02071400",
+                "Nome": "Sobrecoxas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196346,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "21371118000104",
+        "RuaDest": "RUA GRACILIANO OLIVERA",
+        "numDest": "320",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 1539,
+                "EAN": "02071400",
+                "Nome": "Espetinho File Peito Temp Ervas Finas Cong-IND-Xiken-Cx 3kg",
+                "Unidade": "KG",
+                "PesoLiquido": 30.0,
+                "Volume": 10.0,
+                "PesoBruto": 32.1
+            }
+        ]
+    },
+    {
+        "nNF": 1196324,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "11150266000137",
+        "RuaDest": " TRAVESSIA MARIA GUIDE",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196341,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "21129287000124",
+        "RuaDest": "RUA XV DE NOVEMBRO",
+        "numDest": "296",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 200.0,
+                "Volume": 10.0,
+                "PesoBruto": 204.7
+            },
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 100.0,
+                "Volume": 5.0,
+                "PesoBruto": 102.55
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 162,
+                "EAN": "02071400",
+                "Nome": "Pes Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.51008
+            },
+            {
+                "codigo": 173,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 48.0,
+                "Volume": 4.0,
+                "PesoBruto": 50.04
+            },
+            {
+                "codigo": 175,
+                "EAN": "02071400",
+                "Nome": "Moela Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 2.0,
+                "PesoBruto": 21.02
+            },
+            {
+                "codigo": 213,
+                "EAN": "02071400",
+                "Nome": "Meio das Asas Temp Ervas F Cong-PCT-1kg-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 30.0,
+                "Volume": 2.0,
+                "PesoBruto": 31.47
+            },
+            {
+                "codigo": 8930,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Porcao Dorsal Cong-IND-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 200.0,
+                "Volume": 10.0,
+                "PesoBruto": 205.1
+            },
+            {
+                "codigo": 10583,
+                "EAN": "02071400",
+                "Nome": "Dorso Cong-PCT-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            },
+            {
+                "codigo": 11271,
+                "EAN": "02071400",
+                "Nome": "Filezinho (Sassami) Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 24.0,
+                "Volume": 2.0,
+                "PesoBruto": 25.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196342,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "22892298000124",
+        "RuaDest": "RUA XV DE NOVEMBRO",
+        "numDest": "218",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196332,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "04251171000144",
+        "RuaDest": "RUA XV DE NOVEMBRO",
+        "numDest": "275",
+        "BairroDest": "Centro",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 1504,
+                "EAN": "02071200",
+                "Nome": "Frango Carcaca Temp Cong-PCT-Kifrango-Cx21,5kg",
+                "Unidade": "KG",
+                "PesoLiquido": 21.5,
+                "Volume": 1.0,
+                "PesoBruto": 22.575
+            }
+        ]
+    },
+    {
+        "nNF": 1196330,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "30525170000150",
+        "RuaDest": "RUA VASCO COUTINHO",
+        "numDest": "40",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196354,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "31615093000192",
+        "RuaDest": "RUA VASCO COUTINHO",
+        "numDest": "19",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.41
+            },
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 170,
+                "EAN": "02071400",
+                "Nome": "Coxinhas da Asa Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196339,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "23387352000147",
+        "RuaDest": "RUA VASCO COUTINHO",
+        "numDest": "14",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.53
+            }
+        ]
+    },
+    {
+        "nNF": 1196356,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "26912450000144",
+        "RuaDest": " CRG. DO FUZIL",
+        "numDest": "0",
+        "BairroDest": "VILA PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29815000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 163,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 21.0,
+                "Volume": 1.0,
+                "PesoBruto": 21.4935
+            }
+        ]
+    },
+    {
+        "nNF": 1196364,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "21472696000129",
+        "RuaDest": "RUA DEMERVAL LEITE RIBEIRO",
+        "numDest": "41",
+        "BairroDest": "VILA MARINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.41
+            }
+        ]
+    },
+    {
+        "nNF": 1196361,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "31602462000102",
+        "RuaDest": "AV SEBASTIAO COELHO DE SOUZA",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 211,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-IND-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196327,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "35857803000141",
+        "RuaDest": "AV SEBASTIAO COELHO DE SOUZA",
+        "numDest": "369",
+        "BairroDest": "Centro",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            }
+        ]
+    },
+    {
+        "nNF": 1196375,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "26415335000164",
+        "RuaDest": "RUA JUSCELINO KUBITSCHEK",
+        "numDest": "174",
+        "BairroDest": "TODOS OS SANTOS",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 40.94
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196353,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "31084612000133",
+        "RuaDest": "RUA PC ALCIDES ARAUJO AMARAL",
+        "numDest": "0",
+        "BairroDest": "VILA PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29815000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196321,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "29131765000142",
+        "RuaDest": "RUA BEIRA RIO",
+        "numDest": "0",
+        "BairroDest": "SANTO AGOSTINHO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196348,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "18252121000196",
+        "RuaDest": "RUA JOaO BATISTA",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 8930,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Porcao Dorsal Cong-IND-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196369,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "18252121000196",
+        "RuaDest": "RUA JOaO BATISTA",
+        "numDest": "0",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 158,
+                "EAN": "02071400",
+                "Nome": "Coracao Temp Ervas Finas Cong-PCT 800gr-Cx16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.256
+            },
+            {
+                "codigo": 216,
+                "EAN": "02071400",
+                "Nome": "File de Peito Temp Ervas F Cong-PCT-1kg-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.4
+            }
+        ]
+    },
+    {
+        "nNF": 1196331,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "30539183000260",
+        "RuaDest": "TV PAVaO",
+        "numDest": "31",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 8930,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Porcao Dorsal Cong-IND-Kifr-Cx20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 600.0,
+                "Volume": 30.0,
+                "PesoBruto": 615.3
+            }
+        ]
+    },
+    {
+        "nNF": 1196371,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "40185933000115",
+        "RuaDest": "RUA ANTONIO FLAUZINO",
+        "numDest": "64",
+        "BairroDest": "VILA PAULISTA",
+        "MunicipioDest": "Barra Sao Francisco",
+        "UfDest": "ES",
+        "CepDest": 29800000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196345,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "35928238000166",
+        "RuaDest": "RUA GRACILIANO DE OLIVEIRA",
+        "numDest": "435",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 183,
+                "EAN": "02071400",
+                "Nome": "Sambiquira Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.46
+            }
+        ]
+    },
+    {
+        "nNF": 1196360,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "27116318000431",
+        "RuaDest": "RUA PADRE FRANCO",
+        "numDest": "S/N",
+        "BairroDest": "CENTRO (SEDE)",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.53
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196359,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "39982766000154",
+        "RuaDest": "RUA ABILIO BERTOLDO DA SILVA",
+        "numDest": "125",
+        "BairroDest": "Centro",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 169,
+                "EAN": "02071400",
+                "Nome": "Asas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 171,
+                "EAN": "02071400",
+                "Nome": "Meio das Asas Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 60.0,
+                "Volume": 3.0,
+                "PesoBruto": 61.41
+            }
+        ]
+    },
+    {
+        "nNF": 1196333,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "41159587000163",
+        "RuaDest": "R Odilon Soares Ferreira",
+        "numDest": "0",
+        "BairroDest": "NOVA MUNIQUE",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196326,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "28870551000125",
+        "RuaDest": "Rua Augusto Moura",
+        "numDest": "00",
+        "BairroDest": "GOVERNADOR LACERDA D",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29826000,
+        "FoneDest": 0,
+        "Produtos": [
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 182,
+                "EAN": "02071400",
+                "Nome": "Figado Cong-BDJ 500gr-Kifrango-Cx 10kg",
+                "Unidade": "KG",
+                "PesoLiquido": 10.0,
+                "Volume": 1.0,
+                "PesoBruto": 10.51
+            },
+            {
+                "codigo": 10607,
+                "EAN": "02071400",
+                "Nome": "Moela Cong-PCT 800gr-Kifrango-Cx 16kg",
+                "Unidade": "KG",
+                "PesoLiquido": 16.0,
+                "Volume": 1.0,
+                "PesoBruto": 16.408
+            }
+        ]
+    },
+    {
+        "nNF": 1196367,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "19715541000124",
+        "RuaDest": "R RUA BRASIL",
+        "numDest": "S/N",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196336,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "42525922000162",
+        "RuaDest": "R (Rua) Germano linhares",
+        "numDest": "S/N",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 11271,
+                "EAN": "02071400",
+                "Nome": "Filezinho (Sassami) Cong-BDJ 1kg-Kifrango-Cx 12kg",
+                "Unidade": "KG",
+                "PesoLiquido": 12.0,
+                "Volume": 1.0,
+                "PesoBruto": 12.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196357,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "04348323000121",
+        "RuaDest": "R PRINCIPAL TODOS OS ANJOS",
+        "numDest": "110",
+        "BairroDest": "SEDE",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 4,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 120.0,
+                "Volume": 6.0,
+                "PesoBruto": 122.82
+            },
+            {
+                "codigo": 161,
+                "EAN": "02071400",
+                "Nome": "Coxas Sobrecoxas Cong-PCT-Kifrango-Cx 20",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 222,
+                "EAN": "16010000",
+                "Nome": "Linguica Carne de Frango Cong-PCT 1kg-Kifrango",
+                "Unidade": "KG",
+                "PesoLiquido": 15.0,
+                "Volume": 1.0,
+                "PesoBruto": 15.735
+            }
+        ]
+    },
+    {
+        "nNF": 1196349,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "40243398000101",
+        "RuaDest": "Crg Corrego Bela Aurora",
+        "numDest": "S/N",
+        "BairroDest": "Zona Rural",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            },
+            {
+                "codigo": 160,
+                "EAN": "02071400",
+                "Nome": "File de Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196340,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "21556467000192",
+        "RuaDest": "R Jose Julio Verly",
+        "numDest": "23",
+        "BairroDest": "VILA NELITA",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29822000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 159,
+                "EAN": "02071400",
+                "Nome": "Peito Cong-PCT-Kifrango-Cx 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 40.0,
+                "Volume": 2.0,
+                "PesoBruto": 41.02
+            },
+            {
+                "codigo": 4922,
+                "EAN": "02071200",
+                "Nome": "Frango Congelado - Kifrango - Cx 20kg/8UND - U",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.47
+            }
+        ]
+    },
+    {
+        "nNF": 1196343,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "46080526000120",
+        "RuaDest": "Rod Jaime Neri da Silva",
+        "numDest": "SN",
+        "BairroDest": "Zona Rural",
+        "MunicipioDest": "Vila Pavao",
+        "UfDest": "ES",
+        "CepDest": 29843000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 210,
+                "EAN": "02071400",
+                "Nome": "Coxa Sobrecoxa Congelada-IND-Kifrango-CX 20kg",
+                "Unidade": "KG",
+                "PesoLiquido": 20.0,
+                "Volume": 1.0,
+                "PesoBruto": 20.51
+            }
+        ]
+    },
+    {
+        "nNF": 1196320,
+        "Emitente": "Proteinorte Alimentos S/A",
+        "NomeFantasia": "Abatedouro",
+        "CNPJDest": "22447491000156",
+        "RuaDest": "10AV IRACY MARQUES",
+        "numDest": "SN",
+        "BairroDest": "CENTRO",
+        "MunicipioDest": "Agua Doce do Norte",
+        "UfDest": "ES",
+        "CepDest": 29820000,
+        "FoneDest": 2147483647,
+        "Produtos": [
+            {
+                "codigo": 1503,
+                "EAN": "02071200",
+                "Nome": "Frango Cong-PCT-Kifrango-Cx 21kg",
+                "Unidade": "KG",
+                "PesoLiquido": 21.0,
+                "Volume": 1.0,
+                "PesoBruto": 21.4935
+            }
+        ]
+    }
+]
