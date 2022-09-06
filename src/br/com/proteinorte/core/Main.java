@@ -30,6 +30,6 @@ public class Main implements AcaoRotinaJava {
         r.setCampo("ANEXO", invoice.GenerateJSON());
 
         // Envio de mensagem com link para download pelo usuário
-        contexto.setMensagemRetorno(Constants.MenssageHiperlink());
+        contexto.setMensagemRetorno(Constants.MenssageHiperlink());  
     }
 }
