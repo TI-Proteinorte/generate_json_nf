@@ -6,7 +6,7 @@ Project for integration with the NCL logistics HUB for deliveries to the Greater
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
+- `src`: The folder to maintain sources
     - `core`: This folder to maintain main
     - `model`: This folder contains the data models
     - `utils`: This folder contains the helpers which are used throughout the application
