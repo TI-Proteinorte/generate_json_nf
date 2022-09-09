@@ -75,6 +75,7 @@ public class Invoice {
                 product.setPesoBruto(resulProduct.getDouble("PESOBRU"));
                 product.setVolume(resulProduct.getDouble("VOLUME"));
                 product.setPesoLiquido(resulProduct.getDouble("PESOLIQ"));
+                product.setValorUnitario(resulProduct.getDouble("VLRUNIT"));
 
                 // Adicionar na lista os produtos
                 listInvoiceProduct.add(product);

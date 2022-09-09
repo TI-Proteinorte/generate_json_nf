@@ -70,12 +70,13 @@ public final class Constants {
 
         // Montagem da query para retorna o cabeçalho da NOTA Fiscal
         stringBuilder.append("SELECT ITE.CODPROD,").append(" ")
-                .append("PRO.NCM,").append(" ")
+                .append("PRO.REFERENCIA AS NCM,").append(" ")
                 .append("PRO.DESCRPROD,").append(" ")
                 .append("PRO.CODVOL,").append(" ")
                 .append("PRO.PESOBRUTO * ITE.QTDNEG AS PESOBRU,").append(" ")
                 .append("ITE.QTDNEG / AGRUPMIN AS VOLUME,").append(" ")
-                .append("PRO.PESOLIQ * ITE.QTDNEG AS PESOLIQ").append(" ")
+                .append("PRO.PESOLIQ * ITE.QTDNEG AS PESOLIQ,").append(" ")
+                .append("ITE.VLRUNIT").append(" ")
                 .append("FROM AD_FECCAR CAR").append(" ")
                 .append("INNER JOIN AD_FECCOM COM ON COM.NUFECHAMENTO = CAR.NUFECHAMENTO").append(" ")
                 .append("INNER JOIN TGFCAB CAB ON CAB.ORDEMCARGA = COM.NUMDOCUMENTO").append(" ")
