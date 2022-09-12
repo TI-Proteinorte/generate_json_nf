@@ -34,7 +34,7 @@ public class Invoice {
 
                 invoice.setEmitente(resultHeader.getString("RAZAOSOCIAL"));
                 invoice.setNNF(resultHeader.getInt("NUMNOTA"));
-                invoice.setNomeFantasia(resultHeader.getString("NOMEFANTASIA"));
+                invoice.setNomeFantasia(resultHeader.getString("NOMEPARC"));
                 invoice.setCnpjDest(resultHeader.getString("CGC_CPF"));
                 invoice.setRuaDest(resultHeader.getString("NOMEEND"));
                 invoice.setNumDest(resultHeader.getString("NUMEND"));
@@ -43,6 +43,7 @@ public class Invoice {
                 invoice.setUfDest(resultHeader.getString("UF"));
                 invoice.setCepDest(resultHeader.getInt("CEP"));
                 invoice.setFoneDest(resultHeader.getInt("TELEFONE"));
+                invoice.setFormaPagamento(resultHeader.getString("FORMAPAGAMENTO"));
 
                 // Processamento dos itens da nota fiscal
                 invoice.setProdutos(ProcessingProduct(invoice.getNNF()));

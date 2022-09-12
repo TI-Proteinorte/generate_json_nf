@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.*;
 
-@JsonPropertyOrder({"nNF", "Emitente", "NomeFantasia", "CNPJDest", "RuaDest", "numDest", "BairroDest", "MunicipioDest", "UfDest", "CepDest", "FoneDest", "Produtos"})
+@JsonPropertyOrder({"nNF", "Emitente", "NomeFantasia", "CNPJDest", "RuaDest", "numDest", "BairroDest", "MunicipioDest", "UfDest", "CepDest", "FoneDest", "Forma_pagamento", "Produtos"})
 public class InvoiceHeader {
 
     private int nNF; // Número da nota
@@ -18,6 +18,7 @@ public class InvoiceHeader {
     private String ufDest; // Estado do cliente
     private long cepDest; // CEP do cliente
     private long foneDest; // Telefone do cliente
+    private String formaPagamento; // Forma do Pagamento B (Boleto) A (A Vista)
     private List<InvoiceProduct> produtos; // Lista dos produtos    
 
     @JsonProperty("nNF")
@@ -129,6 +130,16 @@ public class InvoiceHeader {
     public void setFoneDest(long value) {
         this.foneDest = value;
     }
+    
+    @JsonProperty("Forma_pagamento")
+    public String getFormaPagamento() {
+        return formaPagamento;
+    }
+
+    @JsonProperty("Forma_pagamento")
+    public void setFormaPagamento(String value) {
+        this.formaPagamento = value;
+    }    
 
     @JsonProperty("Produtos")
     public List<InvoiceProduct> getProdutos() {
